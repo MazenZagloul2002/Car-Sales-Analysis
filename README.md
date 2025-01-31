@@ -60,7 +60,9 @@ The data bars visually highlight top-selling brands.
 
 
 🚗 Top 10 Revenue by Car Model (Bar Chart)
+
 ![image](https://github.com/user-attachments/assets/455174d5-93a7-4db9-97d3-8c6fb47003e2)
+
 
 Highest revenue model: LS400 ($14.3M)
 Other top models include Jetta, Silhouette, Montego Sport, and Ram Pickup.
