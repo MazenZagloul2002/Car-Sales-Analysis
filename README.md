@@ -1,5 +1,5 @@
 # Car-Sales-Analysis
-📌 Key Metrics (Top Row)
+**📌 Key Metrics (Top Row)**
 YTD Total Price: $371.2M
 
 This represents the total sales revenue generated so far for the year.
@@ -27,7 +27,7 @@ Red: $71.4M (19.24%)
 White cars are the most popular, generating the highest revenue.
 Red cars contribute the least but still hold a significant share.
 
-📈 Month vs Revenue (Line Chart)
+**📈 Month vs Revenue (Line Chart)**
 
 ![image](https://github.com/user-attachments/assets/54c98481-e733-4fc8-8a14-0969c5470f04)
 
@@ -40,8 +40,8 @@ Possible seasonal promotions or holiday sales boosting revenue.
 August had a slight dip, but strong recovery afterward.
 
 
-🏢 Company Sales (Table with Data Bars)
-
+**🏢 Company Sales (Table with Data Bars)
+**
 ![image](https://github.com/user-attachments/assets/3b7ee22b-10f3-412c-a8f7-3b449ffd928a)
 
 
@@ -59,7 +59,7 @@ Chrysler and Toyota have the lowest unit sales and revenue.
 The data bars visually highlight top-selling brands.
 
 
-🚗 Top 10 Revenue by Car Model (Bar Chart)
+🚗 **Top 10 Revenue by Car Model (Bar Chart)**
 
 ![image](https://github.com/user-attachments/assets/455174d5-93a7-4db9-97d3-8c6fb47003e2)
 
@@ -86,17 +86,15 @@ Clear All Slicers button helps reset the dashboard quickly.
 ![image](https://github.com/user-attachments/assets/566a998a-8344-43d6-ac3b-82d4607406f8)
 
 
-🚀 Recommendations
-Investigate Revenue Spikes in Sep-Dec
+🚀 **Recommendations**
+1-Investigate Revenue Spikes in Sep-Dec
+  Identify if promotions, new model releases or market trends contributed to the increase. 
+  
+2-Enhance Low-Selling Models
+  Chrysler and Toyota have the lowest sales; focus on marketing or adjusting pricing strategies.
+  
+3-Explore Why White Cars Dominate
+  Since White cars have the highest sales, analyze customer preferences to optimize inventory.
 
-Identify if promotions, new model releases, or market trends contributed to the increase.
-Enhance Low-Selling Models
-
-Chrysler and Toyota have the lowest sales; focus on marketing or adjusting pricing strategies.
-Explore Why White Cars Dominate
-
-Since White cars have the highest sales, analyze customer preferences to optimize inventory.
-Analyze Performance by Engine & Transmission
-
-The slicers suggest an opportunity to dive deeper into engine types or transmission preferences.
-
+4- Analyze Performance by Engine & Transmission
+  The slicers suggest an opportunity to dive deeper into engine types or transmission preferences.
