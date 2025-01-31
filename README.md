@@ -42,6 +42,7 @@ August had a slight dip, but strong recovery afterward.
 
 **🏢 Company Sales (Table with Data Bars)
 **
+
 ![image](https://github.com/user-attachments/assets/3b7ee22b-10f3-412c-a8f7-3b449ffd928a)
 
 
@@ -86,15 +87,17 @@ Clear All Slicers button helps reset the dashboard quickly.
 ![image](https://github.com/user-attachments/assets/566a998a-8344-43d6-ac3b-82d4607406f8)
 
 
+
 🚀 **Recommendations**
+
 1-Investigate Revenue Spikes in Sep-Dec
-  Identify if promotions, new model releases or market trends contributed to the increase. 
+  -> Identify if promotions, new model releases or market trends contributed to the increase. 
   
 2-Enhance Low-Selling Models
-  Chrysler and Toyota have the lowest sales; focus on marketing or adjusting pricing strategies.
+  -> Chrysler and Toyota have the lowest sales; focus on marketing or adjusting pricing strategies.
   
 3-Explore Why White Cars Dominate
-  Since White cars have the highest sales, analyze customer preferences to optimize inventory.
+  -> Since White cars have the highest sales, analyze customer preferences to optimize inventory.
 
 4- Analyze Performance by Engine & Transmission
-  The slicers suggest an opportunity to dive deeper into engine types or transmission preferences.
+  -> The slicers suggest an opportunity to dive deeper into engine types or transmission preferences.
