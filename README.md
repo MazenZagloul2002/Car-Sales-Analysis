@@ -9,15 +9,14 @@ This is the overall revenue, possibly including past years' sales.
 YTD Cars Sold: 13K
 
 
-![image](https://github.com/user-attachments/assets/d45865fc-af66-4612-99cf-86ac46e2eb12)
-
 The total number of cars sold this year.
 YTD Avg Price: $28.0K
 
 The average selling price per car.
 📊 Insight:
 
-The average price suggests the sales focus on mid-range vehicles.
+The average price suggests the sales focus on mid-range vehicles.                                      ![image](https://github.com/user-attachments/assets/cbb51ad3-ff0d-4770-9ace-6b5451b38282)
+
 The high revenue and car sales indicate strong market demand.
 🎨 YTD Sales by Color (Donut Chart)
 Pale White: $174.5M (47.02%)
@@ -34,6 +33,8 @@ Revenue spikes significantly in September, November, and December.
 
 Possible seasonal promotions or holiday sales boosting revenue.
 August had a slight dip, but strong recovery afterward.
+
+
 🏢 Company Sales (Table with Data Bars)
 Top 3 Companies by YTD Sales:
 Chevrolet: 1,043 units - $27.1M
