@@ -28,7 +28,9 @@ White cars are the most popular, generating the highest revenue.
 Red cars contribute the least but still hold a significant share.
 
 📈 Month vs Revenue (Line Chart)
+
 ![image](https://github.com/user-attachments/assets/54c98481-e733-4fc8-8a14-0969c5470f04)
+
 
 Steady growth trend from January to December.
 Revenue spikes significantly in September, November, and December.
@@ -39,7 +41,9 @@ August had a slight dip, but strong recovery afterward.
 
 
 🏢 Company Sales (Table with Data Bars)
+
 ![image](https://github.com/user-attachments/assets/3b7ee22b-10f3-412c-a8f7-3b449ffd928a)
+
 
 Top 3 Companies by YTD Sales:
 Chevrolet: 1,043 units - $27.1M
@@ -70,7 +74,14 @@ Clear All Slicers button helps reset the dashboard quickly.
 
 ![image](https://github.com/user-attachments/assets/6568637d-158d-4e41-a75b-85e1259272d0)
 
-![Uploading image.png…]()
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/566a998a-8344-43d6-ac3b-82d4607406f8)
 
 
 🚀 Recommendations
