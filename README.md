@@ -8,6 +8,9 @@ Total Revenue: $671.53M
 This is the overall revenue, possibly including past years' sales.
 YTD Cars Sold: 13K
 
+
+![image](https://github.com/user-attachments/assets/d45865fc-af66-4612-99cf-86ac46e2eb12)
+
 The total number of cars sold this year.
 YTD Avg Price: $28.0K
 
