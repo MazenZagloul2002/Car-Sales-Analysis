@@ -1,0 +1,20 @@
+1️⃣ Data Preparation & Feature Selection
+🔹 Used customer-related data like age, income, location, purchase history, and vehicle preferences.
+🔹 Categorized purchase behavior: first-time buyers, repeat customers, and premium buyers.
+
+2️⃣ Segmentation Techniques
+✅ Demographic Segmentation – Grouped customers by age, gender, and income levels to understand buying capacity.
+✅ Geographic Segmentation – Identified high-demand locations for specific car models.
+✅ Behavioral Segmentation – Analyzed purchase frequency, brand loyalty, and financing preferences.
+✅ RFM Analysis (Recency, Frequency, Monetary) – Used to classify customers into loyal, at-risk, and high-value buyers.
+
+3️⃣ Visualization in Power BI
+📊 Created interactive charts to show:
+🔹 Customer distribution by income levels and purchase category.
+🔹 Heatmaps for regional preferences.
+🔹 Clustered bar charts for customer preferences by car type (SUVs, Sedans, EVs).
+
+💡 Business Impact
+✅ Helps dealerships target the right customers with personalized offers.
+✅ Improves inventory planning based on demand trends.
+✅ Enhances marketing campaigns with data-driven insights.
